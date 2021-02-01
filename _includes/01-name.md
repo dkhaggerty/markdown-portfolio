@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Diana Haggerty
+## M.S. Ph.D.
+### She/Her/Dr.
